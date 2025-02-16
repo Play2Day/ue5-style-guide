@@ -318,6 +318,7 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 | Texture                 | T_         | _?         | See [Textures](#anc-textures)    |
 | Widget Blueprint        | W_         |            |                                  |
 
+<a name="anc-gas"></a>
 #### Basic GAS assets
 
 | Asset Type              | Prefix     | Suffix     | Notes                            |
