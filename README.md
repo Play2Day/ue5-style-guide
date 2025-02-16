@@ -2,6 +2,8 @@
 
 *A mostly reasonable approach to Unreal Engine 4*
 
+[**Click here for RedneckBastard-specific naming conventions**](#anc-rb)
+
 ## Repo Notice
 
 This repo is forked from [Gamemakin](https://gamemak.in) UE4 Style Guide: https://github.com/Allar/ue5-style-guide
@@ -27,8 +29,8 @@ This repo is forked from [Gamemakin](https://gamemak.in) UE4 Style Guide: https:
   - [1.1 Base Asset Name - `Prefix_BaseAssetName_Variant_Suffix`](#base-asset-name)
     - [1.1 Examples](#1.1-examples)
   - [1.2 Asset Name Modifiers](#asset-name-modifiers)
-    - [1.2.1 Most Common](#anc-common)
-    - [1.2.2 Animations](#anc-animations)
+  - [1.2.1 Most Common](#anc-common)
+  - [1.2.2 Animations](#anc-animations)
   - [1.2.3 Artificial Intelligence](#anc-ai)
   - [1.2.4 Blueprints](#anc-bp)
   - [1.2.5 Materials](#anc-materials)
@@ -302,9 +304,9 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 
 <a name="anc-common"></a>
 <a name="1.2.1"></a>
-#### 1.2.1 Most Common
+### 1.2.1 Most Common
 
-**Basic UE assets**
+#### Basic UE assets
 
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
@@ -316,7 +318,7 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 | Texture                 | T_         | _?         | See [Textures](#anc-textures)    |
 | Widget Blueprint        | W_         |            |                                  |
 
-**Basic GAS assets**
+#### Basic GAS assets
 
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
@@ -326,7 +328,8 @@ When naming an asset, use these tables to determine the prefix and suffix to use
 
 See also: https://github.com/tranek/GASDocumentation
 
-**RedneckBastard assets**
+<a name="anc-rb"></a>
+#### RedneckBastard assets
 
 | Asset Type              | Prefix     | Suffix     | Description                      |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
@@ -336,7 +339,7 @@ See also: https://github.com/tranek/GASDocumentation
 
 <a name="anc-animations"></a>
 <a name="1.2.2"></a>
-#### 1.2.2 Animations
+### 1.2.2 Animations
 
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
