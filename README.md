@@ -515,7 +515,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Font                    | Font_      |            |                                  |
 | Slate Brush             | Brush_     |            |                                  |
 | Slate Widget Style      | Style_     |            |                                  |
-| Widget Blueprint        | WBP_       |            |                                  |
+| Widget Blueprint        | W_       |            |                                  |
 
 <a name="anc-effects"></a>
 <a name="1.2.12"></a>
