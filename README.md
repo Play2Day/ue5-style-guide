@@ -2,7 +2,7 @@
 
 *A mostly reasonable approach to Unreal Engine 4*
 
-[**Click here for RedneckBastard-specific naming conventions**](#anc-rb)
+[**Click here for RedneckBastard-specific naming conventions**](#anc-gas)
 
 ## Repo Notice
 
