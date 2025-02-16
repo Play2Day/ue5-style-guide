@@ -337,6 +337,7 @@ See also: https://github.com/tranek/GASDocumentation
 | Pawn Data (Data Asset)  | PD_        |            | **Use this when you need to create a new mob/character.** Data asset containing all data about a pawn: visuals, abilities, equipment. |
 | Ability Set (Data Asset) | AS_       |            | Data asset for collection of abilities and effects. Usually granted to pawn when spawning. |
 | AI Config (Data Asset)  | AIC_       |            | Contains behavior tree and other AI-specific stuff for pawn. |
+| Character Class         | CC_        |            | Contains specific settings for player classes |
 
 <a name="anc-animations"></a>
 <a name="1.2.2"></a>
