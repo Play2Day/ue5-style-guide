@@ -1,10 +1,10 @@
-# [Gamemakin](https://gamemak.in) UE4 Style Guide() {
+# Play2Day UE style guide and naming conventions
 
 *A mostly reasonable approach to Unreal Engine 4*
 
 ## Repo Notice
 
-This repo is forked from https://github.com/Allar/ue5-style-guide
+This repo is forked from [Gamemakin](https://gamemak.in) UE4 Style Guide: https://github.com/Allar/ue5-style-guide
 
 ## Table of contents
 - [Important Terminology](#important-terminology)
