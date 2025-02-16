@@ -361,7 +361,6 @@ See also: https://github.com/tranek/GASDocumentation
 
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
-| AI Controller           | AIC_       |            |                                  |
 | Behavior Tree           | BT_        |            |                                  |
 | Blackboard              | BB_        |            |                                  |
 | Decorator               | BTDecorator_ |          |                                  |
